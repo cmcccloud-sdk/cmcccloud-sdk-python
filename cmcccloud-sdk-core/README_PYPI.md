@@ -1,0 +1,1 @@
+See detailed information in [cmcccloud-sdk-python](https://github.com/cmcccloud-sdk/cmcccloud-sdk-python).
